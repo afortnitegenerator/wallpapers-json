@@ -7,10 +7,10 @@
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
       "enable_rtl_mode": false,
-      "enable_exit_dialog": true,
+      "enable_exit_dialog": false,
       "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": false,
-      "enable_more_apps": true,
+      "enable_more_apps": false,
       "redirect_url": "",
       "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/wallpaper.html",
       "vpn_url_controller" :"https://raw.githubusercontent.com/afortnitegenerator/jibekgari/refs/heads/main/vpnController_com.lbitala.btswallpapers.json"
