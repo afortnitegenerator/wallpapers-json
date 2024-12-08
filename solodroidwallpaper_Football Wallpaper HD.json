@@ -19,7 +19,7 @@
   "ads": [
     {
       "ad_status": true,
-      "main_ad": "applovin_max",
+      "main_ad": "unity",
       "backup_ad": "unity",
       
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
