@@ -19,8 +19,8 @@
   "ads": [
     {
       "ad_status": true,
-      "main_ad": "unity",
-      "backup_ad": "unity",
+      "main_ad": "applovin_max",
+      "backup_ad": "applovin_max",
       
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
@@ -46,10 +46,10 @@
       "unity_banner_placement_id": "Banner_Android",
       "unity_interstitial_placement_id": "Interstitial_Android",
       
-      "applovin_banner_unit_id": "8088845c828934a0",
-      "applovin_interstitial_unit_id": "f03350435979e73c",
-      "applovin_native_manual_unit_id": "15f458aab4abffd8",
-      "applovin_open_ad_unit_id": "adaa271fe05a8a59",
+      "applovin_banner_unit_id": "0e2e85826c9fd787",
+      "applovin_interstitial_unit_id": "bcda2b0f508cf3c8",
+      "applovin_native_manual_unit_id": "14fb750011fe5239",
+      "applovin_open_ad_unit_id": "d519bf03a82ad22d",
 
       
       "applovin_banner_zone_id": "0",
