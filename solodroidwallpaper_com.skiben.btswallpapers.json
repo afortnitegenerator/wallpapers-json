@@ -13,19 +13,19 @@
       "enable_more_apps": false,
       "redirect_url": "",
       "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/wallpaper.html",
-      "vpn_url_controller" :"https://raw.githubusercontent.com/afortnitegenerator/jibekgari/refs/heads/main/vpnController_com.lbitala.btswallpapers.json"
+      "vpn_url_controller" :"https://drive.google.com/uc?export=download&id=1Mmhod059c8y2_grXrbyB5UpfZTn-ekQa"
     }
   ],
   "ads": [
     {
       "ad_status": true,
-      "main_ad": "applovin_max",
-      "backup_ad": "unity",
+      "main_ad": "admob",
+      "backup_ad": "admob",
       
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "admob_banner_unit_id": "ca-app-pub-9691576545415217/1773578253",
+      "admob_interstitial_unit_id": "ca-app-pub-9691576545415217/8227305961",
+      "admob_native_unit_id": "ca-app-pub-9691576545415217/6973934042",
+      "admob_app_open_unit_id": "ca-app-pub-9691576545415217/1015030358",
       
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
