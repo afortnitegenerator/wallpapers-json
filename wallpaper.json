@@ -1,0 +1,90 @@
+{
+  "CATEGORY": [
+    {
+      "category_name": "Waterfall",
+      "preview_image": "file:///android_asset/image/waterfall2.jpg"
+    },
+    {
+      "category_name": "Beach",
+      "preview_image": "file:///android_asset/image/beach1.jpg"
+    },
+    {
+      "category_name": "Winter",
+      "preview_image": "file:///android_asset/image/winter1.jpg"
+    },
+    {
+      "category_name": "Summer",
+      "preview_image": "https://codegith.com/demo/wall/summer2.jpg"
+    },
+    {
+      "category_name": "River",
+      "preview_image": "https://codegith.com/demo/wall/river1.jpg"
+    },
+    {
+      "category_name": "Mountain",
+      "preview_image": "https://codegith.com/demo/wall/moutain1.jpg"
+    }
+  ],
+  "DATA_WALLPAPER": [
+    {
+      "title_wallpaper": "Waterfall 02",
+      "category_name": "Waterfall",
+      "preview_image": "file:///android_asset/image/waterfall2.jpg"
+    },
+    {
+      "title_wallpaper": "Waterfall 01",
+      "category_name": "Waterfall",
+      "preview_image": "https://codegith.com/demo/wall/waterfall.jpg"
+    },
+    {
+      "title_wallpaper": "Beach 01",
+      "category_name": "Beach",
+      "preview_image": "file:///android_asset/image/beach1.jpg"
+    },
+    {
+      "title_wallpaper": "Beach 02",
+      "category_name": "Beach",
+      "preview_image": "file:///android_asset/image/beach2.jpg"
+    },
+    {
+      "title_wallpaper": "Winter 01",
+      "category_name": "Winter",
+      "preview_image": "file:///android_asset/image/winter1.jpg"
+    },
+    {
+      "title_wallpaper": "Winter 02",
+      "category_name": "Winter",
+      "preview_image": "file:///android_asset/image/winter2.jpg"
+    },
+    {
+      "title_wallpaper": "Summer 01",
+      "category_name": "Summer",
+      "preview_image": "file:///android_asset/image/summer1.jpg"
+    },
+    {
+      "title_wallpaper": "Summer 02",
+      "category_name": "Summer",
+      "preview_image": "https://codegith.com/demo/wall/summer2.jpg"
+    },
+    {
+      "title_wallpaper": "River 01",
+      "category_name": "River",
+      "preview_image": "https://codegith.com/demo/wall/river1.jpg"
+    },
+    {
+      "title_wallpaper": "River 02",
+      "category_name": "River",
+      "preview_image": "https://codegith.com/demo/wall/river2.jpg"
+    },
+    {
+      "title_wallpaper": "Mountain 01",
+      "category_name": "Mountain",
+      "preview_image": "https://codegith.com/demo/wall/moutain1.jpg"
+    },
+    {
+      "title_wallpaper": "Mountain 02",
+      "category_name": "Mountain",
+      "preview_image": "https://codegith.com/demo/wall/moutain2.jpg"
+    }
+  ]
+}
